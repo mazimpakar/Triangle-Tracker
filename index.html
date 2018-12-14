@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Triangle tracker</title>
@@ -9,6 +9,7 @@
             <h1>Triangle tracker</h1>
                 <h2>Input</h2>
                 <h3>Definition of triangle</h3>
+                <img src="image/triangle.png">
                 <p>a plane figure with three straight sides and three angles.</p>
 
              <h4>Types of triangle</h4>
@@ -28,7 +29,13 @@
             <h5>Scalene</h5>
                 <p>A scalene triangle is a triangle that has three unequal sides</p>
                 <img src="/home/wecode/Downloads/scalene.png">
-            <script src="scripts.js"></script>
+                <h3>How to know the types of triangle</h3>
+                <p id="ex">Please enter the length of each side</p>
+                    <input type="number" id="side1" placeholder="length of side 1">
+                    <input type="number" id="side2" placeholder="length of side 2">
+                    <input type="number" id="side3" placeholder="length of side 3">
+                    <button type="button" onclick="getResult()">Result</button>
+                <script src="scripts.js"></script>
             </div>
             <div class="wrapper">
                 <button type="button" onclick="getResult()">Try it out</button>
