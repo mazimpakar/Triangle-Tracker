@@ -4,6 +4,7 @@ function getResult(){
     var sideC=parseFloat(document.getElementById('sideC').value);
 if(sideA===sideB && sideB===sideC){
     alert ("This is an equilateral triangle");
+    
 }
 else if (sideA===sideB || sideA===sideC || sideB===sideC){
     alert ("This is an isoscle triangle");
