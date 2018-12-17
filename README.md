@@ -17,7 +17,7 @@ This website allows the user to input the lengths of the sides of a triangle, an
 * HTML
 * CSS
 * Markdown
-* javascript
+* Javascript
 For any issues, questions, ideas or concerns.
 ## fell free to contact me on :
 ## rosemazimpaka2@gmail.com 
