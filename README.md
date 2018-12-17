@@ -22,7 +22,7 @@ This website allows the user to input the lengths of the sides of a triangle, an
 ## For any issues, questions, ideas or concerns.
 ## fell free to contact me on :
 ## rosemazimpaka2@gmail.com 
-tel:+250786950337
+## phone:+250786950337
 ### whatsapp : +250786950337
 ## Licence
 copy right moringaschool@(c)2018
