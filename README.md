@@ -12,7 +12,8 @@
 #### By **Mazimpaka Rose**
 ## Description
 This website allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all.
-
+# Setup/Installation Requirements
+  NO setup is required! All you need is internet connection.
 ## Technologies used
 * HTML
 * CSS
