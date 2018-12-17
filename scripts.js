@@ -13,6 +13,5 @@ else if ((sideA + sideB) <= sideC || (sideA + sideC) <= sideB || (sideB + sideC)
     alert("Not a definite triangle");
 }
 else{ 
-    alert("This is a scalene triangle");
-}
+     alert("This is a scalene triangle");
 }
