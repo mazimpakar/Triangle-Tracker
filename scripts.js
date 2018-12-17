@@ -7,7 +7,7 @@ if(sideA===sideB && sideB===sideC){
 
 }
 else if (sideA===sideB || sideA===sideC || sideB===sideC)
-alert ("This is an isoscle triangle");
+    alert ("This is an iscocele triangle");
 }
 else if ((sideA + sideB) <= sideC || (sideA + sideC) <= sideB || (sideB + sideC) <= sideA){
     alert("Not a definite triangle");
