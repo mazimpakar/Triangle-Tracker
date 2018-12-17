@@ -47,9 +47,10 @@ button{
     
     
  } 
- h2,h3,h4{ color:aquamarine;
-    text-align:justify;
-    font-weight: normal;
+ h2,h3,h4{ 
+     color:aquamarine;
+     text-align:justify;
+     font-weight: normal;
      font-size: 30px
   }
   
